@@ -19,8 +19,8 @@ Python | Core Java | SQL | HTML | CSS | Streamlit | Spring Boot | MySQL | JavaSc
 ---
 
 ✨ Visitor Count  
-![Visitor Count](https://profile-counter.glitch.me/sivanishanth10/count.svg)
-
+![Visitor Count]([https://github.com/sivanishanth10
+PROFILE] 
 ---
 
 ✨ Let's Connect!  
